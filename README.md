@@ -1,16 +1,27 @@
-## Hi there 👋
+![Header](./img/header.gif)
+<ul>
+  <li>Graduated in Systems Analysis and Development at Universidade Cruzeiro do Sul</li>
+  <li>Technology and programming's lover</li>
+  <li>I share some personal projects for my portfolio and other study projects to document my learning</li>
+</ul> 
 
-<!--
-**marcelaatsouza/marcelaatsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌃 Languages and Tools:
+<div>
+  <img align=center height=35px width=45px alt='JS' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align=center height=35px width=45px alt='Node.js' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img align=center height=35px width=45px alt='React' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align=center height=35px width=45px alt='HTML' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />     
+  <img align=center height=35px width=45px alt='CSS' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />     
+  <img align=center height=35px width=45px alt='Java' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />     
+  <img align=center height=35px width=45px alt='Python' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />     
+</div>          
 
-Here are some ideas to get you started:
+## 🌠 GitHub Stats
+<div>
+<a href="https://github.com/marcelaatsouza">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelaatsouza&layout=compact&langs_count=7&theme=tokyonight"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelaatsouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌙 Reach me
+<a href="https://www.linkedin.com/in/marcela-ataide-souza-909149253/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
