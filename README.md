@@ -19,9 +19,10 @@
 ## 🌠 GitHub Stats
 <div>
 <a href="https://github.com/marcelaatsouza">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelaatsouza&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelaatsouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelaatsouza&layout=compact&langs_count=7&bg_color=191745&title_color=a778e4&text_color=FFF&border_radius=3&border_color=7c45c4&icon_color=e15bdb&theme=tokyonight"/>
+<img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api?username=marcelaatsouza&show_icons=true&bg_color=191745&title_color=a778e4&text_color=FFF&border_radius=3&border_color=7c45c4&icon_color=e15bdb&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🌙 Reach me
-<a href="https://www.linkedin.com/in/marcela-ataide-souza-909149253/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+[![E-mail](https://img.shields.io/badge/-Email-191745?style=for-the-badge&logo=microsoft-outlook&logoColor=a778e4&color:FFF)](marcela.atsouza@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-191745?style=for-the-badge&logo=linkedin&logoColor=a778e4&color:FFF)](https://www.linkedin.com/in/marcela-ataide-souza-909149253/)
