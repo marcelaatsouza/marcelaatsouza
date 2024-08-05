@@ -1,8 +1,8 @@
 ![Header](./img/header.gif)
 <ul>
   <li>Graduated in Systems Analysis and Development at Universidade Cruzeiro do Sul</li>
-  <li>Technology and programming's lover</li>
-  <li>I share some personal projects for my portfolio and other study projects to document my learning</li>
+  <li>Technology and programming lover</li>
+  <li>I share some personal projects for my personal portfolio and other study projects to document my learning</li>
 </ul> 
 
 ## 🌃 Languages and Tools:
