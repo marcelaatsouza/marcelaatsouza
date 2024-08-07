@@ -10,10 +10,15 @@
   <img align=center height=35px width=45px alt='JS' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align=center height=35px width=45px alt='Node.js' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img align=center height=35px width=45px alt='React' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align=center height=35px width=45px alt='Express' src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff" />     
+  <img align=center height=35px width=45px alt='NPM' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"  />     
+  <img align=center height=35px width=45px alt='Nodemon' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg"/>     
+  <img align=center height=35px width=45px alt='MongoDB' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>     
   <img align=center height=35px width=45px alt='HTML' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />     
-  <img align=center height=35px width=45px alt='CSS' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />     
-  <img align=center height=35px width=45px alt='Java' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />     
-  <img align=center height=35px width=45px alt='Python' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />     
+  <img align=center height=35px width=45px alt='CSS' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />        
+  <img align=center height=35px width=45px alt='Java' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />                 
+  <img align=center height=35px width=45px alt='Apache' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg"  />         
+  <img align=center height=35px width=45px alt='MySQL' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  />         
 </div>          
 
 ## 🌠 GitHub Stats
