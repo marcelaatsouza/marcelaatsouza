@@ -16,6 +16,7 @@
   <img align=center height=35px width=45px alt='MongoDB' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>     
   <img align=center height=35px width=45px alt='HTML' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />     
   <img align=center height=35px width=45px alt='CSS' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />        
+  <img align=center height=35px width=45px alt='Postman' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />        
   <img align=center height=35px width=45px alt='Java' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />                 
   <img align=center height=35px width=45px alt='Apache' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg"  />         
   <img align=center height=35px width=45px alt='MySQL' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  />         
